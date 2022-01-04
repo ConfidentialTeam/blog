@@ -1,0 +1,4 @@
+[submodule "confidentialteam/public"]
+	path = confidentialteam/public
+	url = https://github.com/ConfidentialTeam/confidentialteam.github.io.git
+	branch = main
