@@ -44,7 +44,6 @@ Our team developed a tool that automates the process with more features. Here's 
 All techniques mentioned above are just limited examples of how you can infiltrate your malicious payload to the compromised machine. You still can come up with your own ideas that suits the scenario
 
 
-
 ## Refrences:
 
 - https://support.google.com/a/answer/2716800?hl=en
