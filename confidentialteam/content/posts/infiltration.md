@@ -25,12 +25,12 @@ nslookup -querytype=txt confidential.example.com
 ## HTTP Response Header:
 We configured our web server Response header so that we have the 2nd CS beacon's chunk in a custom response header called `Confidential`.
 
-![](../../img/infiltration/2.png)
+![](../../img/infiltration/3.png)
 
 ## SMTP Server's Banner:
 We set up our SMTP Server and modified its configuration adding up the last chunck in the SMTP server's banner.
 
-![](../../img/infiltration/3.png)
+![](../../img/infiltration/2.png)
 
 ## Demo
 Our team developed a tool that automates the process with more features. Here's a demo of the executable agent that we fired up inside the compromised windows machine.
